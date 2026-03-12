@@ -2,5 +2,5 @@
 Belajar Docker Code
 #
 ```
-install docker
+docker container create --name myredis redis:latest
 ```
